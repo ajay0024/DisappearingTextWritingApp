@@ -1,0 +1,1 @@
+This is an app written in python using tkinter module where user has to write a text for a period chosen by him (1-120minutes). But the thing is he can't pause for more than 5 seconds or the text disappear. In case the user completes then he can save his text to a PDF file.
